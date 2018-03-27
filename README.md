@@ -1,1 +1,1 @@
-# ch03
+# ch03 input_multiply.py
